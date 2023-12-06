@@ -1,0 +1,8 @@
+{
+  // configuração para o prettier formatar o código ao salvar
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[typescript]": {
+      "editor.formatOnSave": true
+  }
+}
